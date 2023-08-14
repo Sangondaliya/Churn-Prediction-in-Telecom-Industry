@@ -27,8 +27,8 @@ So the variable of interest, i.e. the target variable here is ‘Churn’ which 
 With 21 predictor variables we need to predict whether a particular customer will switch to another telecom provider or not.
 
 
-### [Data Visualization](https://github.com/Sangondaliya/Churn-Prediction-in-Telecom-Industry/blob/main/telecom-churn-san-model.ipynb)
+### [Data Visualization](https://github.com/Sangondaliya/Churn-Prediction-in-Telecom-Industry/blob/main/telecom-churn-san.ipynb )
 
-### [Model]()
+### [Model](https://github.com/Sangondaliya/Churn-Prediction-in-Telecom-Industry/blob/main/telecom-churn-san-model.ipynb)
 
 
