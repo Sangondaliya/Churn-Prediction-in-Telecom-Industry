@@ -1,7 +1,7 @@
 # Churn-Prediction-in-Telecom-Industry-using-Logistic-Regression
 
 ### Problem Statement: 
-Define what constitutes churn for your telecom business. Churn can include both voluntary churn (customers choosing to switch to a different provider) and involuntary churn (customers leaving due to factors like payment issues or relocation).
+what constitutes churn for your telecom business. Churn can include both voluntary churn (customers choosing to switch to a different provider) and involuntary churn (customers leaving due to factors like payment issues or relocation).
 
 ### Business Impact
 Understand the financial implications of churn. Calculate the direct revenue loss from lost customers and the potential long-term impact on brand reputation and market share.
